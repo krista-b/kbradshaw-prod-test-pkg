@@ -1,6 +1,6 @@
 {
   "name": "kbradshaw-prod/test-pkg",
-  "formatVersion": "1.0.0",
+  "formatVersion": "1",
   "packageVersion": "1.0.0",
   "description": "My test package"
 }
